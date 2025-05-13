@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "3aNbJRj5jmY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel Angel Urbina\\Documents\\programacion final\\Unidad 6-4 practicas de arduino\\Práctica 3 Sensor de nivel lluvia\\Practica 3 Sensor de nivel de agua.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\9.0.4\\runtime.android-arm.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\9.0.4\\runtime.android-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\9.0.4\\runtime.android-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\9.0.4\\runtime.android-x86.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\9.0.4\\runtime.linux-arm.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\9.0.4\\runtime.linux-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\9.0.4\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\9.0.4\\runtime.linux-bionic-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\9.0.4\\runtime.linux-musl-arm.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\9.0.4\\runtime.linux-musl-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\9.0.4\\runtime.linux-musl-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\9.0.4\\runtime.linux-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\9.0.4\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\9.0.4\\runtime.maccatalyst-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.native.system.io.ports\\9.0.4\\runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\9.0.4\\runtime.osx-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\9.0.4\\runtime.osx-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\system.io.ports\\9.0.4\\system.io.ports.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
