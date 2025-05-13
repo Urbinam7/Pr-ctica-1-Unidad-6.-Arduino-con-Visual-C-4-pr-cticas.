@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Práctica 1 Comunicación serial Arduino", "Práctica 1 Comunicación serial Arduino\Práctica 1 Comunicación serial Arduino.csproj", "{14C3CD97-780F-4527-A58B-61F26E046162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C3CD97-780F-4527-A58B-61F26E046162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C3CD97-780F-4527-A58B-61F26E046162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C3CD97-780F-4527-A58B-61F26E046162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C3CD97-780F-4527-A58B-61F26E046162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6B317E5-C9CF-4ED8-8AE3-CC9096CCB00A}
+	EndGlobalSection
+EndGlobal
